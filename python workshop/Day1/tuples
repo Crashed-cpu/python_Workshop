@@ -1,0 +1,6 @@
+# Example nested dictionary
+nested_dict = {
+    'person1': {'name': 'Alice', 'age': 25, 'city': 'New York'},
+    'person2': {'name': 'Bob', 'age': 30, 'city': 'Los Angeles'}
+}
+#make a program for dictionary tuple list etc whatever taught

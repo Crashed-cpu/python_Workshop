@@ -1,0 +1,30 @@
+# range(start, stop, step)
+#tuple is immutable data type which cannot be edited
+#concatination adding two tuples or lists etc
+#dictionary (json objects) is the most flexible data type, values are keypair eg("Name":"Ayush")
+#nested dictionary eg  {}
+#sister keypair values in dictionay
+#try or except block
+#syntax
+#space befor anything like print which we give by tab is called indentation and it is necessary in python
+#curly brackets to be used only when you define dictionary or set
+#list add append 
+#tupple concatination
+#set add() function
+#in Dict add directly by DICT("add")
+#for data analytics set is used
+#SET.remove() will give error if value was not there
+#SET.discard() is a safer option for it
+#Clear set with NAME_OF_SET.clear()
+
+#while checks condn for titrates range and has to stop at range can 
+# do their work with each other but not with intended behaviour
+
+#python keywords defA while loop will repeatedly execute
+#a block of code as long as a condition is true. This is useful when 
+
+
+
+#while checks condn for titrates range and has to stop at range can 
+# do their work with each other but not with intended 
+# behaviour

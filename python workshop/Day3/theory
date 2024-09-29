@@ -1,0 +1,4 @@
+*args is universal
+#why did one printed first bcz one got into num and other went into args 
+#single star tuple and after double star dictionary
+#only one args given and all are printed
